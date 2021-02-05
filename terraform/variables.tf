@@ -1,0 +1,13 @@
+variable "region" {}
+variable "zone" {}
+variable "gcp_project" {}
+variable "credentials" {}
+variable "name" {}
+variable "user_db" {}
+variable "subnet_cidr" {}
+variable "bucket_name" {}
+variable "server_port" {}
+variable "firewall_name" {}
+variable "machine_type" {}
+variable "disk_source_image" {}
+variable "service_account_email" {}

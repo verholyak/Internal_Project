@@ -1,0 +1,9 @@
+/terraform/bookshelf-creds.json
+/terraform/.terraform
+/terraform/backend.tf
+/terraform/.terraform.lock.hcl
+/terraform/bookshelf/bookshelf-creds.json
+/terraform/bookshelf/.terraform
+/terraform/bookshelf/backend.tf
+/terraform/bookshelf/.terraform.lock.hcl
+/terraform_module

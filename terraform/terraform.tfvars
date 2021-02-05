@@ -1,0 +1,13 @@
+region                = "us-central1"
+zone                  = "us-central1-a"
+gcp_project           = "project-bookshelf-301816"
+credentials           = "bookshelf-creds.json"
+name                  = "bookshelf"
+user_db               = "administrator"
+subnet_cidr           = "10.0.1.0/24"
+bucket_name           = "terraform-state-my-bucket"
+server_port           = ["80", "22", "5100"]
+firewall_name         = "bookshelf-port"
+machine_type          = "n1-standard-1"
+disk_source_image     = "debian-cloud/debian-9"
+service_account_email = "bookshelf-service-account@project-bookshelf-301816.iam.gserviceaccount.com"

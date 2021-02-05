@@ -1,0 +1,3 @@
+source_file: /opt/app/ansible/python-app.conf
+destin_file: /etc/supervisor/conf.d/
+cloudsql_connection_name:
