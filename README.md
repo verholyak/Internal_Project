@@ -15,9 +15,3 @@
 ### [ x ] Create Managed instance group
 ### [ x ] Create firewall rules
 ### [ x ] Create HTTP LB
-
-# 2. Ansible
-### [ x ] Configure instance
-### [ x ] Install and configure application
-### [ x ] Initialize application tables in database
-### [ x ] Enable application to run at instance startup
